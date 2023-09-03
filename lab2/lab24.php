@@ -19,6 +19,7 @@
 
            echo "<br>".$personas["Juan"]; 
            echo "<br>".$personas["Eica"];
+           echo "<br>".$personas["Kusanagi"];
             ?>
         </center>
     </body>
