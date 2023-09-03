@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Laboratorio 1.5</title>
+        <title>Laboratorio 1.6</title>
         </head>
         <body>
             <?php
