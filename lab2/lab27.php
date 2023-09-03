@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset = "UTF-8">
-        <title>Laboratorio 2.6</title>
+        <title>Laboratorio 2.7</title>
         </head>
         <body>
             <?php
