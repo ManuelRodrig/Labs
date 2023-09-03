@@ -22,9 +22,9 @@
 
            function mostrar_figuras($figuras, $mensaje){
             echo "<br>Arreglo despues de $mensaje<br>";
-            foreach($figuras as $figura){
-                echo "figura <br>";
-            }
+            foreach($figuras as $figura){   
+                echo "$figura <br>";
+            }   
            }
         ?>
     </body>
