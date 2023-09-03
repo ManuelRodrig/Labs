@@ -10,11 +10,11 @@
 
            switch($posicion){
             case "arriba": //bloque 1
-                echo "La variable contiene";
+                echo "La variable contiene ";
                 echo "el valor arriba";
                 break;
                 case "abajo": //bloque 2
-                    echo "La variable contiene";
+                    echo "La variable contiene ";
                     echo "el valor abajo";
                     break;
                     default://bloque 3
