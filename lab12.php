@@ -1,6 +1,7 @@
 <html>
     <head>
         <title>Laboratorio 1.2</title>
+        </head>
         <body>
             <?php
                $n1 = 1;
@@ -10,5 +11,4 @@
                echo "$n1+$n2";
             ?>
         </body> 
-    </head>
 </html>

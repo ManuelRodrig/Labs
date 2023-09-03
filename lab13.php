@@ -1,12 +1,12 @@
 <html>
     <head>
-        <title>Laboratorio 1.2</title>
+        <title>Laboratorio 1.3</title>
+    </head>
         <body>
             <center>
             <?php
               echo phpinfo();
             ?>
             </center>
-        </body> 
-    </head>
+        </body>    
 </html>

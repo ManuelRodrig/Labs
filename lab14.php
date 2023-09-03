@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Laboratorio 1.2</title>
+        <title>Laboratorio 1.4</title>
         <body>
             <?php
               echo "<table border=1>";

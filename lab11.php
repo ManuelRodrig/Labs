@@ -1,6 +1,7 @@
 <html>
     <head>
         <title>Laboratorio 1.1</title>
+        </head>
         <body>
             <?php
                 $ini = "Hola ";
@@ -9,5 +10,4 @@
                 echo $todo;
             ?>
         </body> 
-    </head>
 </html>
