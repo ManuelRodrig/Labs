@@ -19,7 +19,7 @@
             for($i=0; $i < $numPersonas;$i++){
                 echo "Nombre:  <br>",$persona[$i]['nombre'],"</br><br>";
                 echo "Estatura:  <br>",$persona[$i]['estatura']," cm</br><br>";
-                echo "Sexo:  <br>",$persona[$i]['sexo'],"</br><br>";
+                echo "Sexo:  <br>",$persona[$i]['sexo'],"</br><br><hr>";
             }
             ?>
         </body> 
