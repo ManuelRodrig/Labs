@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+    <title>Laboratorio 1.7</title>
         <meta charset = "UTF-8">
         </head>
         <body>
