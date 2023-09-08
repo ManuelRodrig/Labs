@@ -25,7 +25,7 @@
         else{
            ?>
            <form action= "lab33.php" method = "POST">
-            Nombre e: <input type= "text"  name= "Nombre"><br>
+            Nombre: <input type= "text"  name= "Nombre"><br>
             Apellido: <input type= "text"  name= "Apellido"><br>
             <input type="submit" name="enviar" value="Enviar datos">
             <form>
