@@ -11,7 +11,7 @@ class Paginador
     public function __construct()
     {
         $this->obj_noticia = new Noticia();
-        $this->noticiasPorPagina = 5; // Puedes ajustar la cantidad de noticias por página según tu preferencia
+        $this->noticiasPorPagina = 1; // Puedes ajustar la cantidad de noticias por página según tu preferencia
     }
 
     public function mostrarPagina($pagina)
