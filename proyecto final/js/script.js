@@ -34,7 +34,7 @@ function mostrarscore(){
     window.location.href = "mostrarputuacion.php";
 }
 
-function exitGame() {
+function register() {
     window.location.href = "register.php";
 }
 function exitGame() {

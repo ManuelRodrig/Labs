@@ -52,7 +52,7 @@ $conn->close();
         <input type="submit" value="Iniciar sesión">
 
         <button id="restart_game" type="button" onclick="mostrarscore()">Puntajes más altos</button>
-        <button id="restart_game" type="button" onclick="mostrarscore()">Ir a registrarse</button>
+        <button id="restart_game" type="button" onclick="register()">Ir a registrarse</button>
         <!-- Muestra el mensaje de error debajo del formulario -->
         <?php if (!empty($error_message)) : ?>
         <div class="error-message"><?php echo $error_message; ?></div>
