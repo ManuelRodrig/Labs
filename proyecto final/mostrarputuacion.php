@@ -41,7 +41,7 @@ $result = $conn->query($sql);
 
             // Botón para regresar al juego
             echo "<form action='login.php' method='post'>";
-            echo "<input type='submit' value='Registrarse'>";
+            echo "<input id='restart_game' type='submit' value='Registrarse'>";
             echo "</form>";
         } else {
             echo "No hay puntuaciones disponibles.";

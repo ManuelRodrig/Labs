@@ -35,7 +35,7 @@ body {
   margin: 10px 0;
 }
 
-.restart_game {
+#restart_game {
   margin: 0 auto;
   display: block;
   padding: 9px 5px;
@@ -67,8 +67,8 @@ body {
 }
 
 .game {
-  height: 500px;
-  width: 500px;
+  height: 350px;
+  width: 350px;
   background: #e0e0e0;
   margin: 0 auto;
 }

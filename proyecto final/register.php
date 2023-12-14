@@ -36,7 +36,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <label for="email">Email:</label>
         <input type="email" name="email" required>
         <br>
-        <input type="submit" value="Registrarse">
+        <input class="restart_game" type="submit" value="Registrarse">
         <button id="restart_game" type="button" onclick="exitGame()">Ir a login si ya tienes tu usuario</button><br>
         <!-- Muestra el mensaje de error debajo del botón de enviar con color rojo -->
         <?php if (isset($registerError) && !empty($registerError)) : ?>

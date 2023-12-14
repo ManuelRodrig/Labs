@@ -10,7 +10,15 @@ body {
     justify-content: center;
     height: 100vh;
 }
-
+#restart_game {
+    margin: 0 auto;
+    display: block;
+    padding: 9px 5px;
+    background: #212121;
+    color: #00ff80;
+    font-weight: bold;
+    border: none;
+  }
 table {
     width: 80%;
     border-collapse: collapse;

@@ -11,6 +11,15 @@ body {
     height: 100vh;
 }
 
+#restart_game {
+    margin: 0 auto;
+    display: block;
+    padding: 9px 5px;
+    background: #212121;
+    color: #00ff80;
+    font-weight: bold;
+    border: none;
+  }
 form {
     background-color: #2ecc71; /* Cambia este valor al tono de verde que prefieras */
     padding: 30px;

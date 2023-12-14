@@ -41,7 +41,7 @@ $result = $conn->query($sql);
 
             // Botón para regresar al juego
             echo "<form action='Snake.php' method='post'>";
-            echo "<input type='submit' value='Regresar al Juego'>";
+            echo "<input id='restart_game' type='submit' value='Regresar al Juego'>";
             echo "</form>";
         } else {
             echo "No hay puntuaciones disponibles.";

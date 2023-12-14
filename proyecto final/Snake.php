@@ -22,14 +22,13 @@
             <div class="score_container">
                 Puntaje: <span class="score">0</span>
             </div>
-            <button id="restart_game" type="button" onclick="restartGame()">Comienza de nuevo</button><br>
-            <button id="restart_game" type="button" onclick="exitGame()">Salir del juego</button><br>
-            <button id="restart_game" type="button" onclick="mostrarpuntaje()">Puntajes más altos</button><br>
+            <button id="restart_game" type="button" onclick="restartGame()">Comienza de nuevo</button>
+            <button id="restart_game" type="button" onclick="exitGame()">Salir del juego</button>
+            <button id="restart_game" type="button" onclick="mostrarpuntaje()">Puntajes más altos</button>
             <button id="restart_game" type="button" onclick="endGame()">Añadir Puntaje</button>
         </div>
     </div>
     <script src="js/script.js"></script>
 </body>
-
 </html>
 
